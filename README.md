@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **How I Hacked Bangladesh Bank**
 
-- 📫 How to reach me **Your National Bank or Your National Bank IP**
+- 📫 How to reach me **Your National Bank or Your National Bank Server**
 
 - ⚡ **I'm Always Active in 192.168.1.110**
    
