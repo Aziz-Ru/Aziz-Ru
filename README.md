@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Robbery**
 
-- 📫 How to reach me **Your Nrearest Bank or Your Nearest Bank Server**
+- 📫 How to reach me **Your Nearest Bank or Your Nearest Bank Server**
 
 - ⚡ **I'm Always Active in 192.168.0.110**
    
