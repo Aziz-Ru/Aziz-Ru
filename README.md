@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz-ru&label=Profile%20views&color=0e75b6&style=flat" alt="aziz-ru" /> </p>
 
-- 🌱 **I’m currently learning how to perfectly Rob a Bank & perfectly Hacking Your National Bank**
+- 🌱 **I’m currently learning how to perfectly Rob a Bank & perfectly Hacking Your Nearest Bank**
 
-- 💬 Ask me about **How I Hacked Bangladesh Bank**
+- 💬 Ask me about **Robbery**
 
-- 📫 How to reach me **Your National Bank or Your National Bank Server**
+- 📫 How to reach me **Your Nrearest Bank or Your Nearest Bank Server**
 
-- ⚡ **I'm Always Active in 192.168.1.110**
+- ⚡ **I'm Always Active in 192.168.0.110**
    
 - ##  You Need to Research Before Using these command For Reach to me
  ```bash
