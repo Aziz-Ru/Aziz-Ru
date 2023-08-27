@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz-ru&label=Profile%20views&color=0e75b6&style=flat" alt="aziz-ru" /> </p>
 
-- 🌱 **I’m currently learning how to perfectly Love A Girl**
+- 🌱 **I’m currently learning How to perfectly Love A Girl**
   
 - 👯 **I’m looking to collaborate on A Girl for Relationship**
 
 - 💬 Ask me about **How to Love A Girl**
 
-- 📫 How to reach me **My Next Girlfriend Phone**
+- 📫 How to reach me **Just Create Issue in My Repo**
 
 - ⚡ **I'm Always Active in 192.168.0.110**
    
