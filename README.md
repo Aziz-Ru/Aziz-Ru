@@ -6,9 +6,9 @@
 
 - 🌱 **I’m currently learning How to perfectly Love A Girl**
   
-- 👯 **I’m looking to collaborate on A Girl for Relationship**
+- 👯 **I’m looking to collaborate on A Girl for A Relationship**
 
-- 💬 Ask me about **How to Love A Girl**
+- 💬 Ask me about **How to Sleep All Time**
 
 - 📫 How to reach me **Just Create Issue in My Repo**
 
