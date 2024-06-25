@@ -4,15 +4,13 @@
 
 - 🔭 I’m currently working on [School Management System](https://github.com/Aziz-Ru/School-Management-System)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Structure & Algorithm**
 
 - 👯 I’m looking to collaborate on **Hacking Google**
 
 - 👨‍💻 All of my projects are available at [https://aziz-ru.github.io/](https://aziz-ru.github.io/)
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **siliconoxide4@gmail.com**
+- 💬 Ask me about **I still don't know anything**
 
 - ⚡ Fun fact **Looking A Girl to Fall in Love**
 
