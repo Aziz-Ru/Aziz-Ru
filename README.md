@@ -46,11 +46,11 @@
 ![Linux](https://img.shields.io/badge/Linux-green?style=for-the-badge&logo=linux&logoColor=white&color=%23000000)
 ![GIT](https://img.shields.io/badge/GIt-green?style=for-the-badge&logo=git&logoColor=white&color=%23cc6123)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-ru&show_icons=true&locale=en&layout=compact" alt="aziz-ru" /></p>
+<p><img align="center" style="width: 100vh;height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-ru&show_icons=true&locale=en&layout=compact" alt="aziz-ru" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aziz-ru&show_icons=true&locale=en" alt="aziz-ru" /></p>
+<p>&nbsp;<img align="center" style="width: 100vh;height: 200px" src="https://github-readme-stats.vercel.app/api?username=aziz-ru&show_icons=true&locale=en" alt="aziz-ru" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-ru&" alt="aziz-ru" /></p> 
+<p><img align="center" style="width: 100vh;height: 200px" src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-ru&" alt="aziz-ru" /></p> 
 
 
    
