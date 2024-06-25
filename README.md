@@ -39,8 +39,11 @@
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=nextjs&logoColor=black&color=%230ee66f)
 ![VSCode](https://img.shields.io/badge/VsCOde-green?style=for-the-badge&logo=nextjs&logoColor=black&color=%23136fe8)
 ![NPM](https://img.shields.io/badge/NPM-green?style=for-the-badge&logo=nextjs&logoColor=black&color=%23ab2247)
+![Typescript](https://img.shields.io/badge/typescript-green?style=for-the-badge&logo=typescript&logoColor=white&color=%2399ff90)
 ![Firebase](https://img.shields.io/badge/Firebase-green?style=for-the-badge&logo=nextjs&logoColor=black&color=%23cca423)
 ![Flutter](https://img.shields.io/badge/Flutter-green?style=for-the-badge&logo=flutter&logoColor=black&color=%23237dcc)
+![Linux](https://img.shields.io/badge/Linux-green?style=for-the-badge&logo=linux&logoColor=white&color=%23000000)
+![GIT](https://img.shields.io/badge/GIt-green?style=for-the-badge&logo=git&logoColor=white&color=%23cc6123)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-ru&show_icons=true&locale=en&layout=compact" alt="aziz-ru" /></p>
 
