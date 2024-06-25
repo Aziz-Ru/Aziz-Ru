@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Abdul Aziz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz-ru&label=Profile%20views&color=0e75b6&style=flat" alt="aziz-ru" /> </p>
 
-- 🔭 I’m currently working on [School Management System](https://github.com/Aziz-Ru/School-Management-System)
+- 🔭 I’m currently working on **_Nothing_**
 
-- 🌱 I’m currently learning **Data Structure & Algorithm**
+- 🌱 I’m currently learning **_Data Structure & Algorithm_ for Robbery a Bank**
 
-- 👯 I’m looking to collaborate on **Hacking Google**
+- 👯 I’m looking to collaborate on **Robbery A Bank**
 
 - 👨‍💻 All of my projects are available at [https://aziz-ru.github.io/](https://aziz-ru.github.io/)
 
