@@ -1,22 +1,16 @@
+# Hi 👋, I'm Abdul Aziz
 
-<h1 align="center">Hi 👋, I'm Abdul Aziz</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz-ru&label=Profile%20views&color=0e75b6&style=flat" alt="aziz-ru" /> </p>
+![Aziz's github stats](https://github-readme-stats.vercel.app/api?username=Aziz-Ru&show_icons=true&theme=react)
 
-- 🔭 I’m currently working on **_Nothing_**
 
-- 🌱 I’m currently learning **_Data Structure & Algorithm_ for Robbery a Bank**
+## 🚀 About Me
+I'm a coding enthusiast with some knowledge in Software Engineering!
 
-- 👯 I’m looking to collaborate on **Robbery A Bank**
+#### Love Linux
 
-- 👨‍💻 All of my projects are available at [https://aziz-ru.github.io/](https://aziz-ru.github.io/)
+## 🛠 Skills
 
-- 💬 Ask me about **I still don't know anything**
-
-- ⚡ Fun fact **Looking A Girl to Fall in Love**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Flutter, Next, React, Dart, Javascript, TypeScript, Python, HTML, CSS, Firebase, Node, MongoDB, Prisma, SQL
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -52,9 +46,7 @@
 
 <p><img align="center" style="width: 100vh;height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-ru&show_icons=true&locale=en&layout=compact" alt="aziz-ru" /></p>
 
-<p>&nbsp;<img align="center" style="width: 100vh;height: 200px" src="https://github-readme-stats.vercel.app/api?username=aziz-ru&show_icons=true&locale=en" alt="aziz-ru" /></p>
 
-<p><img align="center" style="width: 100vh;height: 200px" src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-ru&" alt="aziz-ru" /></p> 
 
 
    
