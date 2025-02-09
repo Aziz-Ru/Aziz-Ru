@@ -10,7 +10,7 @@ I'm a coding enthusiast with some knowledge in Software Engineering!
 
 ## 🛠 Skills
 
-##### c, c++, Python, Javascript,Node, TypeScript, Next, React, Dart, HTML, CSS, Firebase, MongoDB, MySQL
+##### c, c++, Javascript,Node, TypeScript, Next, React, Dart, HTML, CSS, Firebase, MongoDB, PostgreSQL
 
 <h3 align="left">Languages and Tools:</h3>
 
