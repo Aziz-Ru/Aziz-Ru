@@ -1,19 +1,49 @@
-# Hi 👋, I'm Abdul Aziz
-
-![Aziz's github stats](https://github-readme-stats.vercel.app/api?username=Aziz-Ru&show_icons=true&theme=react)
+<img class="cropimg" src="https://github.com/Aziz-Ru/Aziz-Ru/blob/main/Banner-distance.png?raw=true" style="width: 100%;" width="100%" />
 
 
-## 🚀 About Me
-I'm a coding enthusiast with some knowledge in Software Engineering!
+<h1 align="left">
+    <img src="https://avatars.githubusercontent.com/u/114327339?v=4" alt="Aziz" height="32" />
+    <u>
+        About me
+    </u>
+</h1>
 
-#### Love Linux
+<p align="left">
+    <ul>
+        <li>
+            <b>🧠 Mindset:</b><br>
+            Do mistakes, fix mistakes | Balance <a href="https://de.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">DRY</a> <->  
+            <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS</a> | Think like the end user
+        </li>
+        <li>
+            💼 <b>Projects:</b>  
+            Check out my <a href="https://github.com/Aziz-Ru?tab=repositories">repos</a> & drop a 🌟
+        </li>
+        <li>
+            🔔 Following me is <b><i>FREE</i></b>... 😅
+        </li>
+        <li>
+            💬 <b>Contact:</b>  
+            My custom <a href="https://noblemajo.de/en/index.html">linktree</a>
+        </li>  
+        <li>
+            🤔 <b>Ask me about:</b>  
+            TypeScript, Docker, GitHub, Node.js, Web, API, or my repos...
+        </li>
+    </ul>  
+</p>
 
-## 🛠 Skills
+<hr>
 
-##### c, c++, Javascript,Node, TypeScript, Next, React, Dart, HTML, CSS, Firebase, MongoDB, PostgreSQL
+<details>
+  <summary><b>🔮 Tech Tips</b></summary>
 
-<h3 align="left">Languages and Tools:</h3>
+  Here are some technologies I use and recommend you try.<br>
+  This list is in no particular order, and I've tried many more.<br>
 
+
+<p >
+   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![VIM](https://img.shields.io/badge/vim-00ff78?style=for-the-badge&logo=vim&logoColor=black)
@@ -42,9 +72,18 @@ I'm a coding enthusiast with some knowledge in Software Engineering!
 ![GIT](https://img.shields.io/badge/GIt-green?style=for-the-badge&logo=git&logoColor=white&color=%23cc6123)
 ![GITHUB](https://img.shields.io/badge/GITHUB-0000ff?style=for-the-badge&logo=github&logoColor=black)
 
+</p>
+
+</details>
 
 
-<p><img align="center" style="width: 100vh;height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-ru&show_icons=true&locale=en&layout=compact" alt="aziz-ru" /></p>
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aziz-Ru&show_icons=true&theme=react"/>
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-ru&show_icons=true&locale=en&layout=compact" alt="aziz-ru" />
+</p>
+
+
 
 
 
