@@ -24,7 +24,7 @@
         </li>
         <li>
             💬 <b>Contact:</b>  
-            My custom <a href="https://noblemajo.de/en/index.html">linktree</a>
+            My custom <a href="https://aziz-ru.github.io/">linktree</a>
         </li>  
         <li>
             🤔 <b>Ask me about:</b>  
