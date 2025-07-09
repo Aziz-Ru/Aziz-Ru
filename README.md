@@ -1,17 +1,19 @@
-<img class="cropimg" src="https://github.com/Aziz-Ru/Aziz-Ru/blob/main/Banner-distance.png?raw=true" style="width: 100%;" width="100%" />
+
+# 👋 Hey there! I'm Abdul Aziz
 
 
-<h1 align="left">
-    <img src="https://avatars.githubusercontent.com/u/114327339?v=4" alt="Aziz" height="32" />
-    <u>
-        About me
-    </u>
-</h1>
+## 🚀 About Me  
+🎓 **Final Year CSE Student** at the University of Rajshahi   
 
-<p align="left">
-    <ul>
+💡 **AI & System Design Enthusiast** | Passionate about Scalable Systems & Solution.
+
+🌍 **Exploring AI, and Full-Stack Development**  
+
+🏆 **Competitive Programmer** Leetcode Solver
+
+<ul>
         <li>
-            <b>🧠 Mindset:</b><br>
+            <b>🧠 Mindset:</b>
             Do mistakes, fix mistakes | Balance <a href="https://de.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">DRY</a> <->  
             <a href="https://de.wikipedia.org/wiki/KISS-Prinzip">KISS</a> | Think like the end user
         </li>
@@ -20,20 +22,27 @@
             Check out my <a href="https://github.com/Aziz-Ru?tab=repositories">repos</a> & drop a 🌟
         </li>
         <li>
-            🔔 Following me is <b><i>FREE</i></b>... 😅
-        </li>
-        <li>
-            💬 <b>Contact:</b>  
-            My custom <a href="https://aziz-ru.github.io/">linktree</a>
-        </li>  
-        <li>
             🤔 <b>Ask me about:</b>  
-            TypeScript, Docker, GitHub, Node.js, Web, API, or my repos...
+            TypeScript, Docker, Node.js, API, or my repos...
         </li>
-    </ul>  
-</p>
+</ul>  
 
 <hr>
+
+## 💻 Tech Stack  
+- **Languages:** C/C++, Javascript, Python , Dart
+- **Backend:** Node Js, PostgreSQL, Docker, CI/CD
+- **Frontend:** React Js, Next Js, Flutter
+
+## 🔥 Notable Projects  
+🔹 **Medical Management System** - Working on Medical Management System of University of Rajshahi ( Flutter, Nest Js )
+
+🔹 **School Management System** - A Modern School Management System ( Next Js, Mysql, Prisma ).
+
+🔹 **Course Generator AI** - Course Generate By a simple prompt  & give details Youtube Video( Next Js, Gemini, Google Cloud ).
+
+
+
 
 <details>
   <summary><b>🔮 Tech Tips</b></summary>
