@@ -1,9 +1,13 @@
 
 # 👋 Hey there! I'm Abdul Aziz
 
+_I speak fluent JSON and argue with databases for a living._
+
 
 ## 🚀 About Me  
 🎓 **Final Year CSE Student** at the University of Rajshahi   
+
+⚙️ **Backend enthusiast** who enjoys building **robust architectures** with Node.js, Express, and PostgreSQL/MySQL,.
 
 💡 **AI & System Design Enthusiast** | Passionate about Scalable Systems & Solution.
 
