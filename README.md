@@ -39,7 +39,8 @@ _I speak fluent JSON and argue with databases for a living._
 - **Frontend:** React Js, Next Js, Flutter
 
 ## 🔥 Notable Projects  
-🔹 **Medical Management System** - Working on Medical Management System of University of Rajshahi ( Flutter, Nest Js )
+🔹 **Medical Management System** - Build a Medical Management System for the University of Rajshahi from scratch, supporting Desktop, Web, and Mobile platforms using Flutter and NestJS.
+Includes patient registration, appointments, prescriptions, and a Patient Portal: <a href="https://medical.ru.ac.bd"> Patient Portal </a>
 
 🔹 **School Management System** - A Modern School Management System ( Next Js, Mysql, Prisma ).
 
